@@ -170,6 +170,10 @@ input, select, textarea {
 
 		}
 
+		.commonsLicense {
+			text-align: center;
+		}
+
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
@@ -4154,3 +4158,4 @@ input, select, textarea {
 		}
 
 	}
+
